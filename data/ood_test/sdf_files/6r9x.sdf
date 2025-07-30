@@ -1,0 +1,85 @@
+JW2
+  ModelServer 0.9.12
+
+ 18 19  0  0  0  0  0  0  0  0  0
+    4.9960   19.9120   18.8110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2620   20.8210   18.9990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5790   20.5230   18.2740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0270   21.8680   17.6800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7470   22.7200   17.5560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9960   22.3320   18.8400 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6830   18.2960   17.9140 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.3540   15.8870   20.8290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    0.0580   15.4190   20.5960 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6480   15.9030   19.4940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6910   20.4260   19.8750 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2360   20.0440   18.3050 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0010   19.1140   18.0430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.3080   18.5440   16.9990 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7590   19.0550   18.5540 N   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1280   17.2800   18.8810 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.9040   16.8260   19.9550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.1080   16.8150   18.6940 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1 13  1  0  0  0  0
+  1 12  1  0  0  0  0
+  1 11  2  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  2  6  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  7 15  1  0  0  0  0
+  7 16  1  0  0  0  0
+  8 17  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 18  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 15  1  0  0  0  0
+ 16 18  2  0  0  0  0
+ 16 17  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+iXBEtdpFRdbfXQhjX-w_CA
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:42:57
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+6r9x
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"JW2"}
+
+> <model_server_stats.io_time_ms>
+14
+
+> <model_server_stats.parse_time_ms>
+20
+
+> <model_server_stats.create_model_time_ms>
+2
+
+> <model_server_stats.query_time_ms>
+299
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+18
+
+$$$$

@@ -1,0 +1,49 @@
+FE
+  ModelServer 0.9.12
+
+  1  0  0  0  0  0  0  0  0  0  0
+  -69.4160   30.9670  -37.4820 FE  0  1  0  0  0  0  0  0  0  0  0  0
+M  END
+> <model_server_result.job_id>
+X2fS4WC9EFSDpdoFT5FNJg
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:10
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4dhl
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"FE"}
+
+> <model_server_stats.io_time_ms>
+12
+
+> <model_server_stats.parse_time_ms>
+7
+
+> <model_server_stats.create_model_time_ms>
+27
+
+> <model_server_stats.query_time_ms>
+260
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+1
+
+$$$$

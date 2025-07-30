@@ -1,0 +1,84 @@
+O4B
+  ModelServer 0.9.12
+
+ 18 18  0  0  0  0  0  0  0  0  0
+    6.5380   -7.4960  -26.4290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6930   -8.5820  -27.3400 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8050   -9.6430  -27.0580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3160  -10.9550  -27.6250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0960  -11.0210  -29.0280 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5850   -9.8190  -29.5800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0270   -9.7030  -31.0250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1340   -8.8270  -31.0150 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1340   -7.9130  -32.1100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4950   -6.5390  -31.6020 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5790   -6.6900  -30.6890 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6430   -5.8050  -30.9750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9550   -6.3170  -30.4090 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0230   -6.0940  -29.0060 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8210   -5.5850  -28.4540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7060   -6.0300  -27.0100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8250   -7.1330  -27.0210 O   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9100   -7.1210  -25.9290 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 18  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  1  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+0tQ_wOYemtLOs0VyZc5y-g
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:19
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+6r8w
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"O4B"}
+
+> <model_server_stats.io_time_ms>
+22
+
+> <model_server_stats.parse_time_ms>
+52
+
+> <model_server_stats.create_model_time_ms>
+5
+
+> <model_server_stats.query_time_ms>
+866
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+18
+
+$$$$

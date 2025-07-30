@@ -1,0 +1,49 @@
+ZN
+  ModelServer 0.9.12
+
+  1  0  0  0  0  0  0  0  0  0  0
+   14.0500    3.0200   -3.5140 ZN  0  2  0  0  0  0  0  0  0  0  0  0
+M  END
+> <model_server_result.job_id>
+2y_Kqv0KmbQRZNYljJoVHg
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:55
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+1s39
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"ZN"}
+
+> <model_server_stats.io_time_ms>
+43
+
+> <model_server_stats.parse_time_ms>
+6
+
+> <model_server_stats.create_model_time_ms>
+6
+
+> <model_server_stats.query_time_ms>
+245
+
+> <model_server_stats.encode_time_ms>
+2
+
+> <model_server_stats.element_count>
+1
+
+$$$$

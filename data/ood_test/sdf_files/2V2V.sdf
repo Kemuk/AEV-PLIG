@@ -1,0 +1,49 @@
+BR
+  ModelServer 0.9.12
+
+  1  0  0  0  0  0  0  0  0  0  0
+   10.3340  -23.7730   30.7430 BR  0  5  0  0  0  0  0  0  0  0  0  0
+M  END
+> <model_server_result.job_id>
+jTqoVoBOx3sIexMpRHYoIw
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:05
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+2v2v
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"BR"}
+
+> <model_server_stats.io_time_ms>
+6
+
+> <model_server_stats.parse_time_ms>
+7
+
+> <model_server_stats.create_model_time_ms>
+6
+
+> <model_server_stats.query_time_ms>
+346
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+1
+
+$$$$

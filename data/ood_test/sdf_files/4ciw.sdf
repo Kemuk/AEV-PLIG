@@ -1,0 +1,78 @@
+XH2
+  ModelServer 0.9.12
+
+ 15 15  0  0  1  0  0  0  0  0  0
+    3.7890   13.5880   21.1040 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7850   13.2430   22.0910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.6550   11.6890   21.9910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.1110   11.3080   20.6850 O   0  0  0  0  0  0  0  0  0  0  0  0
+    1.7660   11.1990   23.1350 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.4740   11.5380   24.4820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.5790   11.2680   25.5970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.0910   11.3320   26.7630 O   0  0  0  0  0  0  0  0  0  0  0  0
+    0.3520   10.9940   25.3590 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6910   10.7160   24.5930 O   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9630   12.8870   24.5230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1320   13.7360   23.4150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.6030   15.0790   23.6080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.0180   15.7010   24.8980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9920   17.1910   24.8500 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 12  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6 10  1  0  0  0  0
+  6 11  1  0  0  0  0
+  7  8  2  0  0  0  0
+  7  9  1  0  0  0  0
+ 11 12  2  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+Gj2yHSskp_VEB5cOBm2yvw
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:11
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4ciw
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"XH2"}
+
+> <model_server_stats.io_time_ms>
+6
+
+> <model_server_stats.parse_time_ms>
+7
+
+> <model_server_stats.create_model_time_ms>
+2
+
+> <model_server_stats.query_time_ms>
+421
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+15
+
+$$$$

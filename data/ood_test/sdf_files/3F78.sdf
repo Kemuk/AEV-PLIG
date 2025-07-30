@@ -1,0 +1,67 @@
+ICF
+  ModelServer 0.9.12
+
+ 10  9  0  0  1  0  0  0  0  0  0
+   27.4000   17.1820    3.8110 F   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2080   17.2250    4.8700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.1390   18.1490    4.6670 F   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8090   16.0650    5.0390 F   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3980   17.5840    6.1190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2020   16.2800    6.6240 CL  0  0  0  0  0  0  0  0  0  0  0  0
+   26.6990   18.7920    5.7910 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.6070   19.7000    6.9060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3150   19.0230    8.0300 F   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7460   20.4040    7.0710 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+1wsIcAlJpi3AKVaEGpV34w
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:02:58
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+3f78
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"ICF"}
+
+> <model_server_stats.io_time_ms>
+6
+
+> <model_server_stats.parse_time_ms>
+6
+
+> <model_server_stats.create_model_time_ms>
+5
+
+> <model_server_stats.query_time_ms>
+252
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+10
+
+$$$$

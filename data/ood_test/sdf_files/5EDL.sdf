@@ -1,0 +1,85 @@
+VIB
+  ModelServer 0.9.12
+
+ 18 19  0  0  0  0  0  0  0  0  0
+    5.6770   19.1820   62.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9870   17.7270   61.1020 N   0  0  0  0  0  0  0  0  0  0  0  0
+   12.3960   19.3690   57.2480 C   0  0  0  0  0  0  0  0  0  0  0  0
+   13.3670   15.6290   57.3070 O   0  0  0  0  0  0  0  0  0  0  0  0
+   12.6150   15.3140   56.1520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.1550   16.6070   55.5240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9800   17.5530   57.6930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6810   16.5650   56.7010 S   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0760   17.1820   56.4240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.2110   18.3980   57.1890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8790   18.6330   57.9850 N   0  3  0  0  0  0  0  0  0  0  0  0
+    9.6950   19.8110   58.8270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8230   18.5820   61.0160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8510   18.5020   61.9270 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7650   19.3170   61.8280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6780   20.2280   60.8070 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6590   20.3250   59.8730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7420   19.4910   59.9930 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1 15  1  0  0  0  0
+  2 13  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  9  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 11  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 13 18  2  0  0  0  0
+ 14 15  2  0  0  0  0
+ 15 16  1  0  0  0  0
+ 16 17  2  0  0  0  0
+ 17 18  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+gQ0ONCxx4pOOQ9XK7k24yA
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:57
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+5edl
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"VIB"}
+
+> <model_server_stats.io_time_ms>
+51
+
+> <model_server_stats.parse_time_ms>
+20
+
+> <model_server_stats.create_model_time_ms>
+2
+
+> <model_server_stats.query_time_ms>
+316
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+18
+
+$$$$

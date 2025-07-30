@@ -1,0 +1,55 @@
+DMS
+  ModelServer 0.9.12
+
+  4  3  0  0  0  0  0  0  0  0  0
+   89.2530    4.6680   40.8600 S   0  0  0  0  0  0  0  0  0  0  0  0
+   89.5750    3.9360   39.5930 O   0  0  0  0  0  0  0  0  0  0  0  0
+   89.1550    6.4400   40.4820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   87.5280    4.3770   41.3390 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+LXfNi71VcOKuffsRB739EA
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:51
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4q4o
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"DMS"}
+
+> <model_server_stats.io_time_ms>
+12
+
+> <model_server_stats.parse_time_ms>
+8
+
+> <model_server_stats.create_model_time_ms>
+3
+
+> <model_server_stats.query_time_ms>
+314
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+4
+
+$$$$

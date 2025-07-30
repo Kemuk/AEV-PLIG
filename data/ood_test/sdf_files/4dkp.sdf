@@ -1,0 +1,76 @@
+NAG
+  ModelServer 0.9.12
+
+ 14 14  0  0  1  0  0  0  0  0  0
+    5.6570   -6.8260   23.5580 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9850   -8.1480   22.8730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4890   -7.9000   21.4590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5210   -7.0070   20.6930 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.1320   -5.7710   21.4990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0180   -5.0100   20.7880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6430  -10.0120   24.2760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7320  -10.6770   25.0630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9680   -8.8890   23.6410 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6270   -9.1310   20.7850 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1190   -6.5990   19.4830 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6970   -6.1210   22.7980 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.5110   -4.0080   21.6410 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5140  -10.4990   24.2370 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  2  0  0  0  0
+M  END
+> <model_server_result.job_id>
+B4iXHKVZYsL089N__OWIcQ
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:18
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4dkp
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"NAG"}
+
+> <model_server_stats.io_time_ms>
+15
+
+> <model_server_stats.parse_time_ms>
+8
+
+> <model_server_stats.create_model_time_ms>
+7
+
+> <model_server_stats.query_time_ms>
+316
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+14
+
+$$$$

@@ -1,0 +1,73 @@
+D48
+  ModelServer 0.9.12
+
+ 12 13  0  0  0  0  0  0  0  0  0
+   63.6310   61.7220 -122.9730 O   0  0  0  0  0  0  0  0  0  0  0  0
+   63.5680   60.4400 -123.4260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   64.4870   59.9310 -124.2940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   64.4030   58.5830 -124.7190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   65.3530   58.0230 -125.5990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   65.2670   56.7200 -125.9680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   64.2140   55.9150 -125.5000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   63.2580   56.4320 -124.6860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   63.3280   57.7740 -124.2550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   62.3710   58.3340 -123.3690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   62.4940   59.6330 -122.9630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   61.6500   60.2300 -122.0850 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  4  2  0  0  0  0
+  4  5  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+q0KT5dJPPqGbubfSVs7m0A
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:10
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+6fba
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"D48"}
+
+> <model_server_stats.io_time_ms>
+19
+
+> <model_server_stats.parse_time_ms>
+10
+
+> <model_server_stats.create_model_time_ms>
+8
+
+> <model_server_stats.query_time_ms>
+269
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+12
+
+$$$$

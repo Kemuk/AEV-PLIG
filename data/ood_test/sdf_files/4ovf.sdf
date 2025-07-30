@@ -1,0 +1,73 @@
+PG4
+  ModelServer 0.9.12
+
+ 13 12  0  0  0  0  0  0  0  0  0
+   26.4340   15.1010   32.0600 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.2030   13.9900   32.9370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.2160   13.0120   32.3020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.8940   11.8420   31.8360 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0670   10.9580   31.0750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9410   11.4400   29.6310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.0980   10.3520   28.7230 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7790   10.7530   27.5350 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.9990    9.8680   27.3230 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8060   10.3830   26.2640 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.1480   10.6710   26.6660 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.0940    9.5570   26.2250 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6200    8.9040   27.3870 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+DJDz56REI9C1wMzePPVHYA
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:06
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4ovf
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"PG4"}
+
+> <model_server_stats.io_time_ms>
+0
+
+> <model_server_stats.parse_time_ms>
+10
+
+> <model_server_stats.create_model_time_ms>
+28
+
+> <model_server_stats.query_time_ms>
+299
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+13
+
+$$$$

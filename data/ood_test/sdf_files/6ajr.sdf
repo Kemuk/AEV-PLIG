@@ -1,0 +1,64 @@
+URA
+  ModelServer 0.9.12
+
+  8  8  0  0  0  0  0  0  0  0  0
+   -9.6220   -6.3950   -5.2290 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.4090   -6.5120   -6.4710 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -11.4580   -5.9910   -6.6390 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9260   -7.3080   -7.5840 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6650   -7.9700   -7.5270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3440   -8.5890   -8.4770 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.8770   -7.8580   -6.2690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3510   -7.0800   -5.1630 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  2  0  0  0  0
+  5  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <model_server_result.job_id>
+AMfVv5mckFbJkc9t5VDLsg
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:07
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+6ajr
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"URA"}
+
+> <model_server_stats.io_time_ms>
+9
+
+> <model_server_stats.parse_time_ms>
+9
+
+> <model_server_stats.create_model_time_ms>
+5
+
+> <model_server_stats.query_time_ms>
+261
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+8
+
+$$$$

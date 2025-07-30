@@ -1,0 +1,64 @@
+76X
+  ModelServer 0.9.12
+
+  8  8  0  0  0  0  0  0  0  0  0
+   -5.7880   22.2860   -8.9390 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.1080   21.2420   -8.4520 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.6040   19.9220   -8.4180 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8150   19.6680   -8.9360 N   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.8920   21.5040   -7.9300 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1690   20.5070   -7.3600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.6080   19.2250   -7.3820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.8140   18.9100   -7.8980 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  2  0  0  0  0
+  2  5  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3  8  1  0  0  0  0
+  5  6  2  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  2  0  0  0  0
+M  END
+> <model_server_result.job_id>
+UwhAexFDmxqBX7q3n1l42A
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:02
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+5lud
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"76X"}
+
+> <model_server_stats.io_time_ms>
+0
+
+> <model_server_stats.parse_time_ms>
+13
+
+> <model_server_stats.create_model_time_ms>
+5
+
+> <model_server_stats.query_time_ms>
+496
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+8
+
+$$$$

@@ -1,0 +1,77 @@
+MYR
+  ModelServer 0.9.12
+
+ 15 14  0  0  0  0  0  0  0  0  0
+   29.3610   12.2180   35.8760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6940   11.1780   36.0740 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8580   13.3630   35.8960 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8630   12.0900   35.6010 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6430   11.9260   36.9130 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8790   13.3520   37.4170 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3310   13.7650   37.2720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4840   15.2710   37.1420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1980   15.6120   35.8450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.6880   15.8400   36.0610 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.3750   16.3350   34.7940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.9280   15.1880   33.9720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.6760   15.6940   32.7580 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.7720   14.6340   31.6630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.4630   14.4850   30.8800 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1  3  1  0  0  0  0
+  1  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+ 13 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+bLYBKhgo2_Kp41r5Ga085g
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:14
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+1hk4
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"MYR"}
+
+> <model_server_stats.io_time_ms>
+7
+
+> <model_server_stats.parse_time_ms>
+6
+
+> <model_server_stats.create_model_time_ms>
+4
+
+> <model_server_stats.query_time_ms>
+270
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+15
+
+$$$$

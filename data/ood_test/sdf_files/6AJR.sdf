@@ -1,0 +1,68 @@
+SF4
+  ModelServer 0.9.12
+
+  8 12  0  0  0  0  0  0  0  0  0
+   -7.3920    0.8220  -18.3220 FE  0  0  0  0  0  0  0  0  0  0  0  0
+   -9.9910    0.1560  -18.5390 FE  0  0  0  0  0  0  0  0  0  0  0  0
+   -8.6610    1.2000  -20.6070 FE  0  0  0  0  0  0  0  0  0  0  0  0
+   -9.2150    2.7640  -18.4180 FE  0  0  0  0  0  0  0  0  0  0  0  0
+  -10.7220    1.8670  -19.8910 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.2370    2.7020  -19.6100 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.9670    1.1960  -16.7390 S   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.2660   -0.8320  -19.6660 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  6  1  0  0  0  0
+  1  7  1  0  0  0  0
+  1  8  1  0  0  0  0
+  2  5  1  0  0  0  0
+  2  7  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3  6  1  0  0  0  0
+  3  8  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+h-ZoEs93BKWgwjhYFDyr2w
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:09
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+6ajr
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"SF4"}
+
+> <model_server_stats.io_time_ms>
+11
+
+> <model_server_stats.parse_time_ms>
+12
+
+> <model_server_stats.create_model_time_ms>
+3
+
+> <model_server_stats.query_time_ms>
+296
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+8
+
+$$$$

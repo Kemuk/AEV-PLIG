@@ -1,0 +1,49 @@
+MN
+  ModelServer 0.9.12
+
+  1  0  0  0  0  0  0  0  0  0  0
+  -37.3050  -19.9930    4.3790 MN  0  2  0  0  0  0  0  0  0  0  0  0
+M  END
+> <model_server_result.job_id>
+ivMJ5ks5ycfdbQoO8DGj-w
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:53
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+5el9
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"MN"}
+
+> <model_server_stats.io_time_ms>
+68
+
+> <model_server_stats.parse_time_ms>
+11
+
+> <model_server_stats.create_model_time_ms>
+3
+
+> <model_server_stats.query_time_ms>
+289
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+1
+
+$$$$

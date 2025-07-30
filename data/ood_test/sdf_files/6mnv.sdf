@@ -1,0 +1,84 @@
+JVS
+  ModelServer 0.9.12
+
+ 18 18  0  0  1  0  0  0  0  0  0
+   27.2310   53.2366   16.1503 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3425   52.4016   16.6475 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4379   51.1048   15.8416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5598   50.2765   16.3619 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9948   51.1681   15.5407 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7633   50.3852   15.8548 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.9603   52.4727   16.3488 C   0  0  0  0  0  0  0  0  0  0  0  0
+   24.7071   50.3516   17.2203 F   0  0  0  0  0  0  0  0  0  0  0  0
+   29.0580   49.4413   17.3659 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1466   50.3426   15.9263 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1619   51.4654   14.1773 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.9319   52.6823   13.5590 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.8320   53.2847   15.9997 O   0  0  0  0  0  0  0  0  0  0  0  0
+   25.6062   52.2392   11.7904 O   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1463   54.5047   16.8739 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.3025   50.3796   12.7411 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6061   53.1080   16.6191 O   0  0  0  0  0  0  0  0  0  0  0  0
+   24.9742   51.6905   13.0605 P   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  1  2  1  0  0  0  0
+  1 15  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2 17  1  0  0  0  0
+  3 10  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  9  1  0  0  0  0
+  5 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 10  1  0  0  0  0
+  5  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+  7 13  1  0  0  0  0
+ 11 18  1  0  0  0  0
+ 12 18  1  0  0  0  0
+ 14 18  2  0  0  0  0
+ 16 18  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+MLD9-PYJttFjbUfXFRROJQ
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:42:59
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+6mnv
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"JVS"}
+
+> <model_server_stats.io_time_ms>
+14
+
+> <model_server_stats.parse_time_ms>
+9
+
+> <model_server_stats.create_model_time_ms>
+3
+
+> <model_server_stats.query_time_ms>
+243
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+18
+
+$$$$

@@ -1,0 +1,9 @@
+
+Download Report
+===============
+Total molecules: 295
+PDB files downloaded: 295 (100.0%)
+SDF files downloaded: 0 (0.0%)
+
+Failed downloads:
+None

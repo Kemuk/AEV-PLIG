@@ -1,0 +1,73 @@
+PG4
+  ModelServer 0.9.12
+
+ 13 12  0  0  0  0  0  0  0  0  0
+    0.3560  -20.8020  -16.2490 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -0.6630  -20.0040  -15.6240 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -1.9150  -19.9640  -16.4810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -2.7630  -18.8270  -16.1510 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -3.1800  -18.8570  -14.7750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.2670  -17.8390  -14.4150 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -4.7830  -18.0350  -13.0760 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5160  -19.2580  -12.9890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.2650  -19.4130  -11.6860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.8270  -20.7340  -11.7160 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.9010  -21.6880  -11.2070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.4330  -23.0840  -11.3330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -5.5670  -23.9560  -10.5790 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  7  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+3GG3xdBNcQZt5d9Ickz2tg
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:30
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+6r8o
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"PG4"}
+
+> <model_server_stats.io_time_ms>
+11
+
+> <model_server_stats.parse_time_ms>
+9
+
+> <model_server_stats.create_model_time_ms>
+2
+
+> <model_server_stats.query_time_ms>
+327
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+13
+
+$$$$

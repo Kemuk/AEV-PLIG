@@ -1,0 +1,71 @@
+ADK
+  ModelServer 0.9.12
+
+ 11 12  0  0  0  0  0  0  0  0  0
+   30.5610  -19.8250    2.7660 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7040  -20.8150    2.4760 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9060  -22.1390    2.2820 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8360  -22.9570    1.9950 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6130  -22.4810    1.9080 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.4230  -21.1340    2.1200 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.1920  -20.6440    2.0520 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4630  -20.3160    2.4140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5560  -19.0100    2.6660 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.8380  -18.6900    2.8940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2850  -22.7350    2.3440 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0  0  0  0
+  1 10  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  8  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4  5  2  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  2  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  2  0  0  0  0
+M  END
+> <model_server_result.job_id>
+oLqb_qQ1lxi-EDJhgT9V8Q
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:01
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4aia
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"ADK"}
+
+> <model_server_stats.io_time_ms>
+21
+
+> <model_server_stats.parse_time_ms>
+10
+
+> <model_server_stats.create_model_time_ms>
+25
+
+> <model_server_stats.query_time_ms>
+301
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+11
+
+$$$$

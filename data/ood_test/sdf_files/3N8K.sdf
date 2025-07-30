@@ -1,0 +1,70 @@
+D1X
+  ModelServer 0.9.12
+
+ 11 11  0  0  0  0  0  0  0  0  0
+  -41.3890    9.4860  -11.4250 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -37.2970    9.3080   -7.3120 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -40.1540    7.6700  -11.1940 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -37.8710   13.0240  -10.0860 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -39.0730   11.0060  -10.5050 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -38.7530    9.0970   -9.0500 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -37.5390   11.1520   -8.6340 N   0  0  0  0  0  0  0  0  0  0  0  0
+  -40.3810    8.8830  -10.9930 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -38.1600   11.7400   -9.7490 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -39.3700    9.6850  -10.1580 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -37.8410    9.8260   -8.2860 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  8  1  0  0  0  0
+  2 11  2  0  0  0  0
+  3  8  2  0  0  0  0
+  4  9  2  0  0  0  0
+  5  9  1  0  0  0  0
+  5 10  2  0  0  0  0
+  6 11  1  0  0  0  0
+  6 10  1  0  0  0  0
+  7 11  1  0  0  0  0
+  7  9  1  0  0  0  0
+  8 10  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+DgwnhWRTY1aIBdnRrnMzXg
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:05
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+3n8k
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"D1X"}
+
+> <model_server_stats.io_time_ms>
+54
+
+> <model_server_stats.parse_time_ms>
+13
+
+> <model_server_stats.create_model_time_ms>
+59
+
+> <model_server_stats.query_time_ms>
+336
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+11
+
+$$$$

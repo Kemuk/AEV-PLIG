@@ -69,7 +69,8 @@ def download_sdf_from_modelserver(pdb_code, ligand_comp_ids, sdf_dir):
             response = requests.get(url, params=params, timeout=30)
             
             if response.status_code == 200 and response.text.strip():
-                file_path = sdf_dir / f"{pdb_code}.sdf"
+                # Use lowercase filename
+                file_path = sdf_dir / f"{pdb_code.lower()}.sdf"
                 with open(file_path, 'w') as f:
                     f.write(response.text)
                 return True  # Successfully downloaded first ligand
@@ -86,12 +87,12 @@ def download_single_molecule(pdb_code, pdb_dir, sdf_dir):
     pdb_success = False
     sdf_success = False
     
-    # Download PDB file
+    # Download PDB file (use lowercase filename)
     pdb_url = f"https://files.rcsb.org/download/{pdb_code.lower()}.pdb"
     try:
         response = requests.get(pdb_url, timeout=30)
         if response.status_code == 200:
-            pdb_file_path = pdb_dir / f"{pdb_code}.pdb"
+            pdb_file_path = pdb_dir / f"{pdb_code.lower()}.pdb"
             with open(pdb_file_path, 'w') as f:
                 f.write(response.text)
             pdb_success = True
@@ -183,10 +184,10 @@ def download_from_csv(csv_file, pdb_column=None, output_dir="./structures", max_
             }
             
             if result['pdb_success']:
-                dataset_row['pdb_file'] = f"pdb_files/{pdb_code}.pdb"
+                dataset_row['pdb_file'] = f"{output_dir}/pdb_files/{pdb_code.lower()}.pdb"
                 
             if result['sdf_success']:
-                dataset_row['sdf_file'] = f"sdf_files/{pdb_code}.sdf"
+                dataset_row['sdf_file'] = f"{output_dir}/sdf_files/{pdb_code.lower()}.sdf"
             
             dataset_rows.append(dataset_row)
     

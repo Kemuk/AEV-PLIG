@@ -1,0 +1,65 @@
+QFH
+  ModelServer 0.9.12
+
+  9  8  0  0  1  0  0  0  0  0  0
+  -24.3900   30.8520   85.4200 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -25.5450   29.8000   83.5620 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8170   29.0420   82.5070 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.9930   30.0670   83.6370 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8980   29.9960   84.6080 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -22.8940   31.4530   83.0200 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -24.2980   29.8050   84.4320 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -23.8030   31.8290   82.2190 O   0  0  0  0  0  0  0  0  0  0  0  0
+  -21.8570   32.1680   83.2320 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  7  1  0  0  0  0
+  2  7  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4  6  1  0  0  0  0
+  4  7  1  0  0  0  0
+  6  9  2  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+BefCIfIPrkIa6az0Gw4wow
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:42:59
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4bt4
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"QFH"}
+
+> <model_server_stats.io_time_ms>
+11
+
+> <model_server_stats.parse_time_ms>
+9
+
+> <model_server_stats.create_model_time_ms>
+3
+
+> <model_server_stats.query_time_ms>
+285
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+9
+
+$$$$

@@ -1,0 +1,83 @@
+EOP
+  ModelServer 0.9.12
+
+ 18 17  0  0  0  0  0  0  0  0  0
+   43.9000   28.8450   19.8860 O   0  0  0  0  0  0  0  0  0  0  0  0
+   45.0640   29.7360   19.2190 P   0  0  0  0  0  0  0  0  0  0  0  0
+   44.9990   31.1810   19.9280 O   0  0  0  0  0  0  0  0  0  0  0  0
+   46.3990   29.1130   19.3640 O   0  0  0  0  0  0  0  0  0  0  0  0
+   44.6130   29.9730   17.4830 C   0  0  0  0  0  0  0  0  0  0  0  0
+   43.1100   29.9490   17.1570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   42.5070   30.9910   16.9300 O   0  0  0  0  0  0  0  0  0  0  0  0
+   42.5660   28.7380   17.1040 N   0  0  0  0  0  0  0  0  0  0  0  0
+   41.1560   28.4780   16.7570 C   0  0  0  0  0  0  0  0  0  0  0  0
+   40.2370   28.4380   17.9790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   39.5550   29.7360   18.0740 N   0  0  0  0  0  0  0  0  0  0  0  0
+   39.3290   30.4010   19.2060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   38.8590   31.5390   19.2290 O   0  0  0  0  0  0  0  0  0  0  0  0
+   39.8080   29.7370   20.4980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   41.4480   30.3720   20.9160 P   0  0  0  0  0  0  0  0  0  0  0  0
+   41.1920   31.5600   21.9730 O   0  0  0  0  0  0  0  0  0  0  0  0
+   42.0120   31.0590   19.5720 O   0  0  0  0  0  0  0  0  0  0  0  0
+   42.3530   29.3250   21.4400 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  2  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  2  0  0  0  0
+  6  8  1  0  0  0  0
+  8  9  1  0  0  0  0
+  9 10  1  0  0  0  0
+ 10 11  1  0  0  0  0
+ 11 12  1  0  0  0  0
+ 12 13  2  0  0  0  0
+ 12 14  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 15 16  1  0  0  0  0
+ 15 17  1  0  0  0  0
+ 15 18  2  0  0  0  0
+M  END
+> <model_server_result.job_id>
+cQ6VMjV9WxfwTK8Q00GFdg
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:02:55
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+2fzc
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"EOP"}
+
+> <model_server_stats.io_time_ms>
+9
+
+> <model_server_stats.parse_time_ms>
+9
+
+> <model_server_stats.create_model_time_ms>
+11
+
+> <model_server_stats.query_time_ms>
+294
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+18
+
+$$$$

@@ -1,0 +1,63 @@
+MRD
+  ModelServer 0.9.12
+
+  8  7  0  0  1  0  0  0  0  0  0
+   -6.6510    4.8470  -13.8730 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.1950    3.7690  -14.7870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -7.5650    4.4160  -16.0330 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -6.1470    2.7270  -15.1360 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -8.3040    3.1200  -13.9780 C   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.5770    2.8080  -14.7340 C   0  0  0  0  0  0  0  0  0  0  0  0
+  -10.1140    1.5450  -14.3280 O   0  0  0  0  0  0  0  0  0  0  0  0
+   -9.3610    2.8090  -16.2180 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  4  1  0  0  0  0
+  2  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+  6  8  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+Onqz7NThJc7bxU380el-yQ
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:10
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+6ooy
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"MRD"}
+
+> <model_server_stats.io_time_ms>
+16
+
+> <model_server_stats.parse_time_ms>
+21
+
+> <model_server_stats.create_model_time_ms>
+5
+
+> <model_server_stats.query_time_ms>
+498
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+8
+
+$$$$

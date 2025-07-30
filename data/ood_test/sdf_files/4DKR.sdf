@@ -1,0 +1,76 @@
+NAG
+  ModelServer 0.9.12
+
+ 14 14  0  0  1  0  0  0  0  0  0
+    6.0950   -6.7580   23.7180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2630   -8.0780   22.9710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6840   -7.8440   21.5240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8140   -6.7840   20.8600 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7170   -5.5390   21.7320 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7870   -4.5030   21.1110 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8950   -9.9750   24.3510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9520  -10.5750   25.2310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2460   -8.9040   23.6460 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5870   -9.0520   20.8040 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3720   -6.4370   19.6130 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2360   -5.8870   23.0120 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.4670   -4.9980   21.1100 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7680  -10.4660   24.3080 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1 12  1  0  0  0  0
+  2  3  1  0  0  0  0
+  2  9  1  0  0  0  0
+  3  4  1  0  0  0  0
+  3 10  1  0  0  0  0
+  4  5  1  0  0  0  0
+  4 11  1  0  0  0  0
+  5  6  1  0  0  0  0
+  5 12  1  0  0  0  0
+  6 13  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7  9  1  0  0  0  0
+  7 14  2  0  0  0  0
+M  END
+> <model_server_result.job_id>
+jrjbatKbiHPofU-uzqzWvg
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:03:42
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4dkr
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"NAG"}
+
+> <model_server_stats.io_time_ms>
+24
+
+> <model_server_stats.parse_time_ms>
+11
+
+> <model_server_stats.create_model_time_ms>
+11
+
+> <model_server_stats.query_time_ms>
+470
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+14
+
+$$$$

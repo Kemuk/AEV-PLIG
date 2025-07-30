@@ -1,0 +1,61 @@
+PEG
+  ModelServer 0.9.12
+
+  7  6  0  0  0  0  0  0  0  0  0
+    5.9830    1.3230  -21.6000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8070    2.0380  -22.5180 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.9460    0.5800  -22.4000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6530   -0.6340  -21.7480 O   0  0  0  0  0  0  0  0  0  0  0  0
+    4.1130   -1.6480  -22.6150 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.8820   -2.1520  -21.8620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    3.2970   -3.0600  -20.8580 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0  0  0  0
+  1  3  1  0  0  0  0
+  3  4  1  0  0  0  0
+  4  5  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6  7  1  0  0  0  0
+M  END
+> <model_server_result.job_id>
+zSA02g5Pr91GkMX2Spk02A
+
+> <model_server_result.datetime_utc>
+2025-07-21 15:43:11
+
+> <model_server_result.server_version>
+0.9.12
+
+> <model_server_result.query_name>
+ligand
+
+> <model_server_result.source_id>
+pdb-bcif
+
+> <model_server_result.entry_id>
+4pnu
+
+> <model_server_params.name>
+atom_site
+
+> <model_server_params.value>
+{"label_comp_id":"PEG"}
+
+> <model_server_stats.io_time_ms>
+8
+
+> <model_server_stats.parse_time_ms>
+9
+
+> <model_server_stats.create_model_time_ms>
+9
+
+> <model_server_stats.query_time_ms>
+283
+
+> <model_server_stats.encode_time_ms>
+0
+
+> <model_server_stats.element_count>
+7
+
+$$$$
